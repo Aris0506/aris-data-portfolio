@@ -1181,6 +1181,7 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   margin: 0;
   line-height: 1.6;
+  text-align: justify;
 }
 
 @media (max-width: 768px) {
