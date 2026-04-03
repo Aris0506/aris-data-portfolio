@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aris-sinopa-data-portfolio",
+  "compatibility_date": "2026-04-03",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "EasyFolio"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
